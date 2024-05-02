@@ -12,7 +12,6 @@
 
 
 ### Métricas do Repositório
-
 | Métrica                   | Valor                            |
 |---------------------------|----------------------------------|
 | Quantidade de Commits     | [![Commits](https://img.shields.io/github/commit-activity/m/lanaclaudias/mxm_fleet_management?style=flat-square)](https://github.com/seu-usuario/seu-repositorio) |
@@ -20,7 +19,6 @@
 | Total de Issues           | [![Issues](https://img.shields.io/github/issues-closed/lanaclaudias/mxm_fleet_management?style=flat-square&color=red)](https://github.com/seu-usuario/seu-repositorio/issues?q=is%3Aissue+is%3Aclosed) |
 | Número de Contribuidores  | [![Contributors](https://img.shields.io/github/contributors/lanaclaudias/mxm_fleet_management?style=flat-square)](https://github.com/seu-usuario/seu-repositorio/graphs/contributors) |
 | Total de Estrelas         | [![Stars](https://img.shields.io/github/stars/lanaclaudias/mxm_fleet_management?style=flat-square)](https://github.com/seu-usuario/seu-repositorio/stargazers) |
-
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline-block"><br/>
