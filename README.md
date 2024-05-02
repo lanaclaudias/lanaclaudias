@@ -8,6 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=compact&langs_count=10&exclude_repo=github-readme-stats,lanaclaudias.github.io&hide=html,css,scss,sass,less,ruby,php)](https://github.com/lanaclaudias/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=compact&langs_count=10&exclude_repo=github-readme-stats,lanaclaudias.github.io&include_all_commits=true&hide=html,css,scss,sass,less,ruby,php&show_icons=true&theme=radical&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000&exclude_repo=github-readme-stats,lanaclaudias.github.io&hide_border=true&hide_title=true&card_width=300)](https://github.com/lanaclaudias/github-readme-stats)
+
+
+
 
 ## Tecnologias que uso no meu dia
 
