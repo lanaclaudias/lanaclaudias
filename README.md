@@ -9,6 +9,19 @@
 
 
 
+
+
+### Métricas do Repositório
+
+| Métrica                   | Valor                            |
+|---------------------------|----------------------------------|
+| Quantidade de Commits     | [![Commits](https://img.shields.io/github/commit-activity/m/seu-usuario/seu-repositorio?style=flat-square)](https://github.com/seu-usuario/seu-repositorio) |
+| Total de PRs              | [![PRs](https://img.shields.io/github/issues-pr-closed/seu-usuario/seu-repositorio?style=flat-square&color=green)](https://github.com/seu-usuario/seu-repositorio/pulls?q=is%3Apr+is%3Aclosed) |
+| Total de Issues           | [![Issues](https://img.shields.io/github/issues-closed/seu-usuario/seu-repositorio?style=flat-square&color=red)](https://github.com/seu-usuario/seu-repositorio/issues?q=is%3Aissue+is%3Aclosed) |
+| Número de Contribuidores  | [![Contributors](https://img.shields.io/github/contributors/seu-usuario/seu-repositorio?style=flat-square)](https://github.com/seu-usuario/seu-repositorio/graphs/contributors) |
+| Total de Estrelas         | [![Stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=flat-square)](https://github.com/seu-usuario/seu-repositorio/stargazers) |
+
+
 ## Tecnologias que uso no meu dia
 <div style="display: inline-block"><br/>
     <img style="align-items: center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
