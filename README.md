@@ -11,7 +11,7 @@
  [![PRs](https://img.shields.io/github/issues-pr-closed/lanaclaudias/lanaclaudias?style=flat-square&color=green)](https://github.com/lanaclaudias/lanaclaudias/pulls?q=is%3Apr+is%3Aclosed) 
 
 
-
+[![Contributors](https://img.shields.io/github/contributors/lanaclaudias/lanaclaudias?style=flat-square)](https://github.com/lanaclaudias/lanaclaudias/graphs/contributors) |
 
 
 
