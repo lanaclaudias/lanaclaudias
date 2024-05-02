@@ -5,11 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-santos-55a125232)
 ![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=compact&langs_count=10&exclude_repo=github-readme-stats,lanaclaudias.github.io&hide=html,css,scss,sass,less,ruby,php)](https://github.com/lanaclaudias/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=compact&langs_count=10&exclude_repo=github-readme-stats,lanaclaudias.github.io&include_all_commits=true&hide=html,css,scss,sass,less,ruby,php&show_icons=true&theme=radical&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000&exclude_repo=github-readme-stats,lanaclaudias.github.io&hide_border=true&hide_title=true&card_width=300)](https://github.com/lanaclaudias/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=donut)](https://github.com/lanaclaudias/github-readme-stats)
 
 
 
