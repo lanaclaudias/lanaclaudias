@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-santos-55a125232)
 ![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=donut)](https://github.com/lanaclaudias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=compact&langs_count=10&hide=&hide=javascript,typescript,html,css,scss,sass,less,ruby,php)](https://github.com/lanaclaudias/github-readme-stats)
 
 
 ## Tecnologias que uso no meu dia
