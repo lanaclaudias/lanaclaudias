@@ -15,7 +15,7 @@
 
 | Métrica                   | Valor                            |
 |---------------------------|----------------------------------|
-| Quantidade de Commits     | [![Commits](https://img.shields.io/github/commit-activity/m/lanaclaudias/seu-repositorio?style=flat-square)](https://github.com/seu-usuario/seu-repositorio) |
+| Quantidade de Commits     | [![Commits](https://img.shields.io/github/commit-activity/m/lanaclaudias/mxm_fleet_management?style=flat-square)](https://github.com/seu-usuario/seu-repositorio) |
 | Total de PRs              | [![PRs](https://img.shields.io/github/issues-pr-closed/lanaclaudias/seu-repositorio?style=flat-square&color=green)](https://github.com/seu-usuario/seu-repositorio/pulls?q=is%3Apr+is%3Aclosed) |
 | Total de Issues           | [![Issues](https://img.shields.io/github/issues-closed/lanaclaudias/seu-repositorio?style=flat-square&color=red)](https://github.com/seu-usuario/seu-repositorio/issues?q=is%3Aissue+is%3Aclosed) |
 | Número de Contribuidores  | [![Contributors](https://img.shields.io/github/contributors/lanaclaudias/seu-repositorio?style=flat-square)](https://github.com/seu-usuario/seu-repositorio/graphs/contributors) |
