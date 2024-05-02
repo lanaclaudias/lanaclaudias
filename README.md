@@ -8,6 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=donut)](https://github.com/lanaclaudias/github-readme-stats)
 
  [![Commits](https://img.shields.io/github/commit-activity/y/lanaclaudias/lanaclaudias?style=flat-square)](https://github.com/lanaclaudias/lanaclaudias) 
+ [![PRs](https://img.shields.io/github/issues-pr-closed/lanaclaudias/lanaclaudias?style=flat-square&color=green)](https://github.com/lanaclaudias/lanaclaudias/pulls?q=is%3Apr+is%3Aclosed) 
 
 
 
