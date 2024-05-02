@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=donut)](https://github.com/lanaclaudias/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=compact)](https://github.com/lanaclaudias/github-readme-stats)
+ [![Commits](https://img.shields.io/github/commit-activity/y/lanaclaudias/lanaclaudias?style=flat-square)](https://github.com/lanaclaudias/lanaclaudias) 
 
 
 
