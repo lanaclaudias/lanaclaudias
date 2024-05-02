@@ -6,21 +6,23 @@
 ![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=donut)](https://github.com/lanaclaudias/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaclaudias&layout=compact&langs_count=10&exclude_repo=github-readme-stats,lanaclaudias.github.io&include_all_commits=true&hide=html,css,scss,sass,less,ruby,php&show_icons=true&theme=radical&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000&hide_border=true&hide_title=true&card_width=300)](https://github.com/lanaclaudias/github-readme-stats)
-
 
 
 
 
 ## Tecnologias que uso no meu dia
-
-<div style="display: incline_block"><br/>
-<img style="align-itens: center" all= "html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img style="align-itens: center" all= "css" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img style="align-itens: center" all= "js" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img style="align-itens: center" all= "nodejs" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img style="align-itens: center" all= "mysql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img style="align-itens: center" all= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div></br>
+<div style="display: inline-block"><br/>
+    <img style="align-items: center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img style="align-items: center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img style="align-items: center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img style="align-items: center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img style="align-items: center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img style="align-items: center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img style="align-items: center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img style="align-items: center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+    <img style="align-items: center" alt="Tauri" src="https://img.shields.io/badge/Tauri-6e60ff?style=for-the-badge&logo=tauri&logoColor=white"/>
+    <img style="align-items: center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img style="align-items: center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+</div><br/>
 
 
