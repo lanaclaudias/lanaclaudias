@@ -10,6 +10,8 @@
 
 
 
+
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: incline_block"><br/>
@@ -21,4 +23,4 @@
 <img style="align-itens: center" all= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div></br>
 
-Apaixonada pela Tecnologia :)
+
